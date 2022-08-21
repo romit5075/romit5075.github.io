@@ -1,7 +1,7 @@
 # romit5075.github.io
 
 My Portfolio
-To View The Live Demo https://romit5075.github.io/portfolio/
+To View The Live Demo https://romit5075.github.io/
 
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/97334928/185563473-f3118244-f539-4e3c-b5eb-cba73037a5ac.png)
